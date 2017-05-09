@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    
+    tools:context=".DesignActivity" 
+    android:orientation="vertical"
+    >
+
+   <!--  <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" /> -->
+        <!-- //C1区域 -->
+        <RelativeLayout android:orientation="horizontal" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <ImageButton
+            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/bt_save_up" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bt_back_up" />
+    </RelativeLayout>
+
+    <!-- //C2区域 -->
+
+     <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/figure" 
+        android:layout_weight="10"
+        />
+     
+     <!-- //C3区域 -->
+<LinearLayout 
+      android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="10"
+    android:orientation="vertical"
+    >
+<cn.edu.qzu.face.PagerSlidingTabStrip
+    android:id="@+id/pagerTab"
+     android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+    />
+    
+    
+   <!--  翻页控件ViewPager -->
+   <!-- 如果不是系统原生的控件，那么需要定义时使用以下格式：包名.类名 -->
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent" />
+    
+    
+</LinearLayout>
+ 
+</LinearLayout>

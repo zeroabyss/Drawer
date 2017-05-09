@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\zero\\android\\face\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_find_selector.xml",
+        "source": "D:\\zero\\android\\face\\app\\src\\main\\res\\drawable\\btn_find_selector.xml"
+    },
+    {
+        "merged": "D:\\zero\\android\\face\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_feedback_selector.xml",
+        "source": "D:\\zero\\android\\face\\app\\src\\main\\res\\drawable\\btn_feedback_selector.xml"
+    },
+    {
+        "merged": "D:\\zero\\android\\face\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_man_selector.xml",
+        "source": "D:\\zero\\android\\face\\app\\src\\main\\res\\drawable\\btn_man_selector.xml"
+    },
+    {
+        "merged": "D:\\zero\\android\\face\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_woman_selector.xml",
+        "source": "D:\\zero\\android\\face\\app\\src\\main\\res\\drawable\\btn_woman_selector.xml"
+    },
+    {
+        "merged": "D:\\zero\\android\\face\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gift_selector.xml",
+        "source": "D:\\zero\\android\\face\\app\\src\\main\\res\\drawable\\btn_gift_selector.xml"
+    }
+]

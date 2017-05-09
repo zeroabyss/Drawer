@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Second</string>
+    <string name="Main_Text_View">Never Forget</string>
+    <string name="Main_Id">&#160;&#160;&#160;&#160;帐号:</string>
+    <string name="Main_Password">&#160;&#160;&#160;&#160;密码:</string>
+    <string name="Main_Button">登录</string>
+    <string name="Stu_Denglu">个人信息</string>
+    <string name="Stu_Xuanke">选课</string>
+</resources>

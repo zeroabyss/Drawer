@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+<!-- //写两个，一个是按下状态时所展示的图片，一个是默认状态所展示的图片     -->
+<item android:state_pressed="true" android:drawable="@drawable/bt_woman_down"></item>
+<item android:drawable="@drawable/bt_woman_up"></item>
+
+</selector>

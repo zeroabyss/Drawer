@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\zero\\android\\face\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sex.xml",
+        "source": "D:\\zero\\android\\face\\app\\src\\main\\res\\layout\\activity_sex.xml"
+    },
+    {
+        "merged": "D:\\zero\\android\\face\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\zero\\android\\face\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\zero\\android\\face\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_design.xml",
+        "source": "D:\\zero\\android\\face\\app\\src\\main\\res\\layout\\activity_design.xml"
+    }
+]

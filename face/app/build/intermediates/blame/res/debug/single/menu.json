@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\zero\\android\\face\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\zero\\android\\face\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\zero\\android\\face\\app\\build\\intermediates\\res\\merged\\debug\\menu\\design.xml",
+        "source": "D:\\zero\\android\\face\\app\\src\\main\\res\\menu\\design.xml"
+    },
+    {
+        "merged": "D:\\zero\\android\\face\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sex.xml",
+        "source": "D:\\zero\\android\\face\\app\\src\\main\\res\\menu\\sex.xml"
+    }
+]
